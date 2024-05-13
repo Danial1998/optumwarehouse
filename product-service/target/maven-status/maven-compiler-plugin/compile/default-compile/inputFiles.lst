@@ -1,0 +1,7 @@
+/Users/dbarbhui/Documents/optumwarehouse/optumwarehouse/product-service/src/main/java/com/optumwarehouse/productservice/ProductServiceApplication.java
+/Users/dbarbhui/Documents/optumwarehouse/optumwarehouse/product-service/src/main/java/com/optumwarehouse/productservice/controller/ProductController.java
+/Users/dbarbhui/Documents/optumwarehouse/optumwarehouse/product-service/src/main/java/com/optumwarehouse/productservice/repository/ProductRepository.java
+/Users/dbarbhui/Documents/optumwarehouse/optumwarehouse/product-service/src/main/java/com/optumwarehouse/productservice/dto/ProductRequest.java
+/Users/dbarbhui/Documents/optumwarehouse/optumwarehouse/product-service/src/main/java/com/optumwarehouse/productservice/model/Product.java
+/Users/dbarbhui/Documents/optumwarehouse/optumwarehouse/product-service/src/main/java/com/optumwarehouse/productservice/service/ProductService.java
+/Users/dbarbhui/Documents/optumwarehouse/optumwarehouse/product-service/src/main/java/com/optumwarehouse/productservice/dto/ProductResponse.java

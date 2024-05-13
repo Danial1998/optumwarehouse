@@ -1,0 +1,5 @@
+com/optumwarehouse/inventoryservice/model/Inventory.class
+com/optumwarehouse/inventoryservice/repsitory/InventoryRepository.class
+com/optumwarehouse/inventoryservice/service/InventoryService.class
+com/optumwarehouse/inventoryservice/InventoryServiceApplication.class
+com/optumwarehouse/inventoryservice/controller/InventoryController.class

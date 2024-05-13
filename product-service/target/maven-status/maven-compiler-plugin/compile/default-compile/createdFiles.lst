@@ -1,0 +1,10 @@
+com/optumwarehouse/productservice/model/Product$ProductBuilder.class
+com/optumwarehouse/productservice/dto/ProductRequest$ProductRequestBuilder.class
+com/optumwarehouse/productservice/service/ProductService.class
+com/optumwarehouse/productservice/dto/ProductResponse.class
+com/optumwarehouse/productservice/dto/ProductResponse$ProductResponseBuilder.class
+com/optumwarehouse/productservice/repository/ProductRepository.class
+com/optumwarehouse/productservice/model/Product.class
+com/optumwarehouse/productservice/dto/ProductRequest.class
+com/optumwarehouse/productservice/controller/ProductController.class
+com/optumwarehouse/productservice/ProductServiceApplication.class
